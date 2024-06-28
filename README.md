@@ -1,6 +1,6 @@
 ![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=welcome%20to%20Jmg%20github&fontSize=70&color=0:f0f0f0,100:5ec7d0&stroke=5ec7d0)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=💻+Technology;💻+기술&color=43766C&center=true&width=800px&size=40&height=80px)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=💻+Technology;💻+기술&color=5ec7d0&center=true&width=800px&size=40&height=80px)](https://git.io/typing-svg)
 
 <h3 align="center">
 <img src="https://img.shields.io/badge/Java-fff.svg?style=for-the-badge&logo=Java&logoColor=fff" />
@@ -28,7 +28,7 @@
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=🔧+Tools;🔧+개발도구&color=43766C&center=true&width=800px&size=40&height=80px)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=🔧+Tools;🔧+개발도구&color=5ec7d0&center=true&width=800px&size=40&height=80px)](https://git.io/typing-svg)
 
 <h3 align="center">
 <img src="https://img.shields.io/badge/intellij IDEA-000000.svg?style=for-the-badge&logo=intellij IDEA&logoColor=white" />
@@ -37,7 +37,7 @@
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=💾+API;💾+API&color=43766C&center=true&width=800px&size=40&height=80px)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=💾+API;💾+API&color=5ec7d0&center=true&width=800px&size=40&height=80px)](https://git.io/typing-svg)
 
 
 <h3 align="center">
