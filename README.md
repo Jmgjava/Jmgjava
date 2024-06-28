@@ -1,4 +1,4 @@
-![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=welcome%20to%20Jmg%20github&fontSize=70&color=0:76453B,100:43766C&stroke=B19470)
+![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=welcome%20to%20Jmg%20github&fontSize=70&color=0:f0f0f0,100:5ec7d0&stroke=5ec7d0)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=💻+Technology;💻+기술&color=43766C&center=true&width=800px&size=40&height=80px)](https://git.io/typing-svg)
 
