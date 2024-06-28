@@ -28,7 +28,7 @@
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=🔧+Tools;🔧+개발도구&color=5ec7d0&center=true&width=800px&size=40&height=80px)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=💻+Tools;💻+개발도구&color=5ec7d0&center=true&width=800px&size=40&height=80px)](https://git.io/typing-svg)
 
 <h3 align="center">
 <img src="https://img.shields.io/badge/intellij IDEA-000000.svg?style=for-the-badge&logo=intellij IDEA&logoColor=white" />
